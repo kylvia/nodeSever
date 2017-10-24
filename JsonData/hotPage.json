@@ -1,0 +1,31 @@
+{
+  "list": [
+    {
+      "name": "「 润物细无声 」来自2017年的80位艺术家",
+      "row_id": "100392",
+      "pic": "http://localhost:8888/image/hot3",
+      "sort": "392",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100392?isApp=1",
+      "subhead": ""
+    },
+    {
+      "name": "「 有你，有我 」来自2016年的100位艺术家",
+      "row_id": "100389",
+      "pic": "http://localhost:8888/image/hot2",
+      "sort": "391",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100389?isApp=1",
+      "subhead": ""
+    },
+    {
+      "name": "「 百花齐放，百家争鸣 」来自2015年的100位艺术家",
+      "row_id": "100384",
+      "pic": "http://localhost:8888/image/hot1",
+      "sort": "390",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100384?isApp=1",
+      "subhead": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ads": [
+    {
+      "title": "「 润物细无声 」来自2017年的80位艺术家",
+      "id": "100392",
+      "pic": "http://localhost:8888/image/slider1",
+      "sort": "392",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100392?isApp=1",
+      "subhead": ""
+    },
+    {
+      "title": "「 有你，有我 」来自2016年的100位艺术家",
+      "id": "100389",
+      "pic": "http://localhost:8888/image/slider2",
+      "sort": "391",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100389?isApp=1",
+      "subhead": ""
+    },
+    {
+      "title": "「 百花齐放，百家争鸣 」来自2015年的100位艺术家",
+      "id": "100384",
+      "pic": "http://localhost:8888/image/slider3",
+      "sort": "390",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100384?isApp=1",
+      "subhead": ""
+    },
+    {
+      "title": "「2014」吃螃蟹的一群人",
+      "id": "100381",
+      "pic": "http://localhost:8888/image/slider4",
+      "sort": "389",
+      "type": 10,
+      "url": "https:\/\/m.artand.cn\/event\/100381?isApp=1",
+      "subhead": ""
+    }
+  ],
+  "code": 1000,
+  "time": "0.0177"
+}
